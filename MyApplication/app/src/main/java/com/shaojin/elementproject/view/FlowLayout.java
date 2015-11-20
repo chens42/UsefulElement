@@ -14,9 +14,6 @@ import com.shaojin.elementproject.R;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by shaojin on 2015-11-20.
- */
 
 @TargetApi(Build.VERSION_CODES.ICE_CREAM_SANDWICH)
 public class FlowLayout extends ViewGroup {
